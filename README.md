@@ -18,7 +18,7 @@ Year 1
 * Member of the Social Policy Society
 * Member of the Anthropology Society
 ## Independent Projects
-* 🔎 Mini-project: Kinship Terms in Patriotic Rhetoric
+* 🔎 Mini-project: Kinship Terms in Patriotic Rhetoric ([Repo link](https://github.com/GDBowron/Kinship-Rhetoric))
 <!---
 GDBowron/GDBowron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
